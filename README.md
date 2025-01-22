@@ -1,2 +1,2 @@
 # CSES
-This Repository contains solutions to CSES Problemset
+This Repository contains solution to CSES Problemset
